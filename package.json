@@ -1,0 +1,19 @@
+{
+  "name": "version-playground",
+  "version": "1.0.0",
+  "description": "npm playground",
+  "main": "/dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bm-nhs/version-playground.git"
+  },
+  "author": "Benjamin L. Miles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bm-nhs/version-playground/issues"
+  },
+  "homepage": "https://github.com/bm-nhs/version-playground#readme"
+}
