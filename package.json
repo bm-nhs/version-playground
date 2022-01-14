@@ -1,6 +1,6 @@
 {
   "name": "version-playground",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "npm playground",
   "main": "/dist/index.js",
   "scripts": {
